@@ -839,4 +839,5 @@ MonoBehaviour:
   _achievementNameTMP: {fileID: 8171592298667624117}
   _achievementDescriptionTMP: {fileID: 8898476385568724405}
   _achievementProgressGO: {fileID: 4494729789436251860}
+  _achievementHiddenButton: {fileID: 2738213312838615370}
   _achievementIcon: {fileID: 2694440832609402445}
