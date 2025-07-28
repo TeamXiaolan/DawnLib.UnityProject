@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '> Open Achievements'
+  m_text: '> Achievements'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 74592c696ed7709499c0389ec179566c, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 5d6bf3c7907024e4c804e23f04c36d45, type: 2}
