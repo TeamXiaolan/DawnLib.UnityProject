@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildOutputPath: F:/Ammar Stuff/ModdingProject/CodeRebirthStuff/CodeRebirthLib/CodeRebirthLib/res
-  buildOnlyChanged: 1
+  buildOnlyChanged: 0
   processDependenciesRecursively: 0
   assetSortOption: 1
   scaleFactor: 1.105

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3735394367085682074}
   - component: {fileID: 3631855946378398874}
-  - component: {fileID: -6249711431540196029}
+  - component: {fileID: 5834300743323980362}
   m_Layer: 0
   m_Name: CodeRebirthLibNetworker
   m_TagString: Untagged
@@ -53,7 +53,7 @@ MonoBehaviour:
   SpawnWithObservers: 1
   DontDestroyWithOwner: 0
   AutoObjectParentSync: 1
---- !u!114 &-6249711431540196029
+--- !u!114 &5834300743323980362
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -62,6 +62,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 5022472189482613836}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -594809025, guid: ae32b7224d86a7247a75d2c3e565d55a, type: 3}
+  m_Script: {fileID: 1052401667, guid: ae32b7224d86a7247a75d2c3e565d55a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

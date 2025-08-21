@@ -1,20 +1,21 @@
 # CodeRebirthLib
 
-A Library to help manage large Lethal Company Mods. Makes registering with LethalLib/WeatherRegistry/etc easier and contains other useful scripts and utilities.
+A Library to help manage large Lethal Company Mods. Makes registering with Scrap/Enemies/Inside and Outside Hazards/Furniture/ShipUpgrades/WeatherRegistry/etc easier and contains other useful scripts and utilities.
 
 Currently supports:
 
-## Lethal Lib
-
-- Enemies
-- Items
-- Inside Map Objects
-- Unlockables
-
 ## Native (CodeRebirthLib)
 
+- Enemies
+- Scraps
+- Shop Items
+- Inside Map Objects
 - Outside Map Objects
+- Ship Upgrades
+- Decors
+- Skins (TODO)
 - Achievements
+- Tile Injection
 
 ## PathfindingLib
 
@@ -89,7 +90,7 @@ public class DuckContentHandler : ContentHandler<DuckContentHandler>
 After running `Mod.RegisterContentHandlers();` the registries in your `CRMod` will be populated. You can then get access to your content by running
 
 ```cs
-if (mod.WeatherRegistry().TryGetFromWeatherName("Meteor Shower", out CRWeatherDefinition? definition))
+if (mod.WeatherRegistry().TryGetFromWeatherName("Meteor Shower", out CRMWeatherDefinition? definition))
 {
     // do something with the Meteor Shower definition.
     // i.e. grabbing the prefab.
