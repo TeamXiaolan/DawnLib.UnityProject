@@ -333,7 +333,6 @@ MonoBehaviour:
   _achievementGetUIElementPrefab: {fileID: 7624665784079013438, guid: 2954092a8e30fd5499a4334a5e10a213,
     type: 3}
   achievementContent: {fileID: 8098652351349721765}
-  PopupTime: 2
 --- !u!1 &8864363424993292011
 GameObject:
   m_ObjectHideFlags: 0
