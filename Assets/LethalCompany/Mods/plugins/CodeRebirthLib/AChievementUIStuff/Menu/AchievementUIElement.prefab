@@ -121,7 +121,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 6204094357268305558}
-        m_TargetAssemblyTypeName: CodeRebirthLib.CRMod.AchievementUIElement, com.github.xuuxiaolan.coderebirthlib
+        m_TargetAssemblyTypeName: DawnLib.CRMod.AchievementUIElement, com.github.xuuxiaolan.dawnlib
         m_MethodName: ResetAchievementProgress
         m_Mode: 1
         m_Arguments:
@@ -1506,7 +1506,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8877622580769141589}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1977012219, guid: ae32b7224d86a7247a75d2c3e565d55a, type: 3}
+  m_Script: {fileID: -1523757182, guid: 053bc7a5a1d71e04a9d948a256246cc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   achievementNameTMP: {fileID: 1161272784167180007}

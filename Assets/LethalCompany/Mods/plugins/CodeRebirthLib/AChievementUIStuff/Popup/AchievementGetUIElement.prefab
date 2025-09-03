@@ -910,18 +910,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 7624665784079013438}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1977012219, guid: ae32b7224d86a7247a75d2c3e565d55a, type: 3}
+  m_Script: {fileID: -1523757182, guid: 053bc7a5a1d71e04a9d948a256246cc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _achievementNameTMP: {fileID: 6712002729415086886}
-  _achievementDescriptionTMP: {fileID: 698157502850628756}
-  _achievementProgressGO: {fileID: 843256993650297816}
-  _achievementHiddenButton: {fileID: 6000388255165196583}
-  _achievementIcon: {fileID: 2812788900879006187}
-  _unfinishedAchievementColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  _backgroundImage: {fileID: 2934826297925139535}
-  _progressBar: {fileID: 4228773909502280709}
-  _eventTrigger: {fileID: 0}
+  achievementNameTMP: {fileID: 6712002729415086886}
+  achievementDescriptionTMP: {fileID: 698157502850628756}
+  achievementProgressGO: {fileID: 843256993650297816}
+  achievementHiddenButton: {fileID: 6000388255165196583}
+  achievementIcon: {fileID: 2812788900879006187}
+  unfinishedAchievementColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  backgroundImage: {fileID: 2934826297925139535}
+  progressBar: {fileID: 4228773909502280709}
+  eventTrigger: {fileID: 0}
 --- !u!95 &109714212203205107
 Animator:
   serializedVersion: 5

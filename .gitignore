@@ -80,4 +80,4 @@ crashlytics-build.properties
 /AssetRipper/*
 /AssetRipperOutput/*
 
-!/Assets/LethalCompany/Mods/plugins/CodeRebirthLib/**/*
+!/Assets/LethalCompany/Mods/plugins/DawnLib/**/*
