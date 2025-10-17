@@ -81,3 +81,4 @@ crashlytics-build.properties
 /AssetRipperOutput/*
 
 !/Assets/LethalCompany/Mods/plugins/DawnLib/**/*
+ProjectSettings/CRBundleWindowSettings.asset
